@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233727939978",
+    "project_id": "pengaduan-dde4b",
+    "storage_bucket": "pengaduan-dde4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233727939978:android:987dfa63607c0e9a586473",
+        "android_client_info": {
+          "package_name": "com.example.pengaduan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLulc48E6evCaLXlZvsaQhPlkDA2ZyOFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

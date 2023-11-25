@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Pengaduan" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Pengaduan" parent="Base.Theme.Pengaduan" />
+
+    <style name="Base.Theme.Pengaduan.ActionBar" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="tabBackground">@color/white</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="actionBarStyle">@style/ActionBarStyle</item>
+        <item name="fontFamily">@font/poppins_regular</item>
+    </style>
+
+    <style name="ActionBarStyle" parent="Widget.Material3.ActionBar.Solid">
+        <item name="background">@color/blue</item> <!-- Latar belakang action bar -->
+        <item name="titleTextColor">@color/white</item> <!-- Warna teks action bar -->
+        <item name="fontFamily">@font/poppins_bold</item>
+    </style>
+</resources>
